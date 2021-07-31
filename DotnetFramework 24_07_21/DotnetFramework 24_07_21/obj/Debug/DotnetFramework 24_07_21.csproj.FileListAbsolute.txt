@@ -1,0 +1,7 @@
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\bin\Debug\DotnetFramework 24_07_21.exe.config
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\bin\Debug\DotnetFramework 24_07_21.exe
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\bin\Debug\DotnetFramework 24_07_21.pdb
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\obj\Debug\DotnetFramework 24_07_21.csproj.AssemblyReference.cache
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\obj\Debug\DotnetFramework 24_07_21.csproj.CoreCompileInputs.cache
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\obj\Debug\DotnetFramework 24_07_21.exe
+C:\Users\Mayke\source\repos\DotnetFramework 24_07_21\DotnetFramework 24_07_21\obj\Debug\DotnetFramework 24_07_21.pdb
